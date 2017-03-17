@@ -1,11 +1,23 @@
 {
-  "name":"currency",
-  "version":"0.0.1",
-  "dependencies":{
-    "express":"~4.14.1",
-    "express-handlebars":"~3.0.0"
+  "name": "MeadowLarkTravel",
+  "version": "1.0.0",
+  "description": "for web programming class",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
   },
-  "description":"Simple currency converter",
-  "main":"app.js",
-  "author":"Anthony"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antlaw0/Fortune-Website.git"
+  },
+  "author": "Anthony",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/antlaw0/Fortune-Website/issues"
+  },
+  "homepage": "https://github.com/antlaw0/Fortune-Website#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
 }
